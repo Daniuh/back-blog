@@ -1,6 +1,7 @@
 {
   "name": "portafolio-app-back",
   "version": "1.0.0",
+  "type": "module",
   "description": "En este proyecto se va a trabajar en el back para un blog personal, el cual va a tener un login de momento con relación 1:N",
   "main": "index.js",
   "scripts": {
